@@ -6,7 +6,7 @@ draft: false
 
 ## 学術論文（査読あり）
 
-1. **Test**
+1. Coming Soon...
 
 ## 国内学会発表
 
