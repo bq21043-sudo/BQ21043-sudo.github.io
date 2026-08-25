@@ -29,6 +29,8 @@ mainSections = ["posts"]
   subtitle = ''
   description = '芝浦工業大学川上研究室（フルードパワーシステム研究室）所属の修士課程2年'
 
+  highlightColor = "#002147"
+
   [params.sidebar]
     home = "right"
     list = "right"
