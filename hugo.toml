@@ -1,12 +1,12 @@
-baseURL = 'https://YOUR-GITHUB-USERNAME.github.io/' # 後で作成するGitHubのユーザー名を入れる
+baseURL = 'https://bq21043-sudo.github.io/'
 languageCode = 'ja'
 title = ''
 theme = 'mainroad'
-googleAnalytics = 'G-XXXXXXXXXX' # Google アナリティクスの測定IDを貼る
+googleAnalytics = 'G-XXXXXXXXXX'
 
 [author]
   name = '芝浦工業大学'
-  bio = '芝浦工業大学大学院　理工学研究科　システム理工学専攻　修士課程2年'
+  bio = '芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年'
 
 [menu]
   [[menu.main]]
@@ -25,10 +25,11 @@ googleAnalytics = 'G-XXXXXXXXXX' # Google アナリティクスの測定IDを貼
     url = '/publications/'
     weight = 30
 
-[params][params]
+[params]
   customCSS = ["css/custom.css"]
   subtitle = ''
-  description = '芝浦工業大学川上研究室（フルードパワーシステムシステム研究室）所属の修士課程2年'
+  description = '芝浦工業大学川上研究室（フルードパワーシステム研究室）所属の修士課程2年'
+
   [params.sidebar]
     home = "right"
     list = "right"
