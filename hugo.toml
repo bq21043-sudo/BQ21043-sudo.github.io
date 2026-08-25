@@ -1,0 +1,35 @@
+baseURL = 'https://YOUR-GITHUB-USERNAME.github.io/' # 後で作成するGitHubのユーザー名を入れる
+languageCode = 'ja'
+title = '研究室 / 個人Webサイト'
+theme = 'mainroad'
+googleAnalytics = 'G-XXXXXXXXXX' # Google アナリティクスの測定IDを貼る
+
+[author]
+  name = '芝浦工業大学'
+  bio = '芝浦工業大学大学院　理工学研究科　システム理工学専攻　修士課程2年'
+
+[menu]
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'research'
+    name = 'Research'
+    url = '/research/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'publications'
+    name = 'Publications'
+    url = '/publications/'
+    weight = 30
+
+[params]
+  subtitle = 'フルードパワー'
+  description = '芝浦工業大学川上研究室（フルードパワーシステムシステム研究室）所属の修士課程2年'
+  [params.sidebar]
+    home = "right"
+    list = "right"
+    single = "right"
+    widgets = ["search", "recent", "categories", "taglist"]
