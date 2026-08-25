@@ -4,12 +4,12 @@
     display: none !important;
 }
 
-/* ヘッダー全体・内枠・メニュー帯の背景色を強制上書き */
-body .header,
-body .header__inner,
-body .menu,
-body .menu__list,
-body .footer {
+/* ヘッダー・フッター・メニューをネイビーに変更 */
+.header,
+.header__inner,
+.menu,
+.menu__list,
+.footer {
     background-color: #002147 !important;
     background: #002147 !important;
 }
