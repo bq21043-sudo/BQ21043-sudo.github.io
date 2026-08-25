@@ -1,5 +1,9 @@
-+++
-date = '2026-08-25T19:46:37+09:00'
-draft = true
-title = 'Research'
-+++
+---
+title: "Research Topics"
+date: 2026-08-25
+draft: false
+---
+
+## 研究内容
+
+Coming Soon...
