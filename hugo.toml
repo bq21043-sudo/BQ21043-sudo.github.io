@@ -1,6 +1,6 @@
 baseURL = 'https://YOUR-GITHUB-USERNAME.github.io/' # 後で作成するGitHubのユーザー名を入れる
 languageCode = 'ja'
-title = '研究室 / 個人Webサイト'
+title = ''
 theme = 'mainroad'
 googleAnalytics = 'G-XXXXXXXXXX' # Google アナリティクスの測定IDを貼る
 
@@ -25,8 +25,9 @@ googleAnalytics = 'G-XXXXXXXXXX' # Google アナリティクスの測定IDを貼
     url = '/publications/'
     weight = 30
 
-[params]
-  subtitle = 'フルードパワー'
+[params][params]
+  customCSS = ["css/custom.css"]
+  subtitle = ''
   description = '芝浦工業大学川上研究室（フルードパワーシステムシステム研究室）所属の修士課程2年'
   [params.sidebar]
     home = "right"
