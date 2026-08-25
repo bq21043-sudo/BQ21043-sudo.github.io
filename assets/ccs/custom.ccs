@@ -1,17 +1,15 @@
 /* タイトルとサブタイトルを非表示 */
-.header__title, .header__subtitle {
+.header__title, 
+.header__subtitle {
     display: none !important;
 }
 
-/* ヘッダー・フッター・メニューの背景色をネイビーに強力指定 */
-header,
-footer,
-.header,
-.footer,
-.header__inner,
-.menu,
-.menu__list,
-.menu__item {
+/* ヘッダー全体・内枠・メニュー帯の背景色を強制上書き */
+body .header,
+body .header__inner,
+body .menu,
+body .menu__list,
+body .footer {
     background-color: #002147 !important;
     background: #002147 !important;
 }
