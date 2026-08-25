@@ -26,6 +26,10 @@ draft: false
 
 ---
 
+## 所属学会
+* **日本フルードパワーシステム学会
+
+---
 ## 連絡先・リンク (Contact & Links)
 
 * ✉️ **Email**: [bq21043@shibaura-it.ac.jp](mailto:bq21043@shibaura-it.ac.jp)
