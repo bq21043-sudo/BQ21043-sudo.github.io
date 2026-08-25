@@ -12,11 +12,7 @@ mainSections = ["posts"]
   bio = '芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年'
 
 [menu]
-  [[menu.main]]
-    identifier = 'about'
-    name = 'About'
-    url = '/about/'
-    weight = 10
+
   [[menu.main]]
     identifier = 'research'
     name = 'Research'
