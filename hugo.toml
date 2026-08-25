@@ -8,7 +8,7 @@ googleAnalytics = 'G-XXXXXXXXXX'
 mainSections = ["posts"]
 
 [author]
-  name = '芝浦工業大学'
+  name = 'Ryota Nakanishi'
   bio = '芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年'
 
 [menu]
