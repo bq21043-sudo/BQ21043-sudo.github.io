@@ -1,4 +1,0 @@
-/* ヘッダーのタイトル表示領域を非表示にする */
-.header__title, .header__subtitle {
-    display: none;
-}
