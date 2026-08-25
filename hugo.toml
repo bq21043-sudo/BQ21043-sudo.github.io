@@ -1,7 +1,7 @@
 baseURL = 'https://ryota-nakanishi-dev.github.io/'
 relativeURLs = true
 locale = 'ja'
-title = 'Ryota Nakanishi'
+title = ''
 theme = 'mainroad'
 googleAnalytics = 'G-XXXXXXXXXX'
 
@@ -13,7 +13,7 @@ mainSections = ["posts"]
 
 [menu]
 
-  # メニューの一番左に 「Home」 を追加
+  # 右上メニューに HOME を追加
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
@@ -38,10 +38,6 @@ mainSections = ["posts"]
   description = '芝浦工業大学川上研究室（フルードパワーシステム研究室）所属の修士課程2年'
 
   highlightColor = "#002147"
-
-  # ロゴ部分のテキスト設定（クリックするとトップに戻ります）
-  [params.logo]
-    title = "Ryota Nakanishi"
 
   [params.sidebar]
     home = "right"
