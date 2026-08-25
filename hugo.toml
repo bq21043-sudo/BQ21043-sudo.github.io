@@ -1,4 +1,5 @@
 baseURL = 'https://ryota-nakanishi-dev.github.io/'
+relativeURLs = true
 languageCode = 'ja'
 title = ''
 theme = 'mainroad'
