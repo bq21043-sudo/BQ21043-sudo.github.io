@@ -1,9 +1,7 @@
 ---
-title: "Research Topics"
+title: "Research Topics （研究内容）"
 date: 2026-08-25
 draft: false
 ---
-
-## 研究内容
-
+##
 Coming Soon...
