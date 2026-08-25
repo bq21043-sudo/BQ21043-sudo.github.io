@@ -1,3 +1,12 @@
+/* タイトルとサブタイトルを非表示 */
 .header__title, .header__subtitle {
     display: none;
+}
+
+/* ヘッダー・フッター・メニューの黒い部分をネイビーに変更 */
+.header,
+.footer,
+.menu,
+.menu__list {
+    background-color: #002147 !important;
 }
