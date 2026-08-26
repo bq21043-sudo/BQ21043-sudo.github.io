@@ -43,4 +43,4 @@ mainSections = ["posts"]
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["search", "recent", "categories", "taglist"]
+    widgets = ["recent"]
