@@ -6,7 +6,7 @@ draft: false
 
 ## プロフィール（Profile）
 
-**中西 凌大（Ryota Nakanishi）**
+**中西 凌大（Ryota Nakanishi）**　　
 芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年  
 川上研究室（フルードパワーシステム研究室）所属
 
