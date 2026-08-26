@@ -44,3 +44,8 @@ mainSections = ["posts"]
     list = "right"
     single = "right"
     widgets = ["recent"]
+[languages]
+  [languages.ja]
+    languageName = "日本語"
+    [languages.ja.params.messages]
+      recent_title = "最近のお知らせ"
