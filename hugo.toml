@@ -43,6 +43,8 @@ mainSections = ["posts"]
   description = '芝浦工業大学川上研究室（フルードパワーシステム研究室）所属の修士課程2年'
   highlightColor = "#002147"
 
+  readmore = false
+
   # 見出しの変更設定
   [params.messages]
     recent_title = "最近のお知らせ・研究活動"
