@@ -32,3 +32,26 @@
 .content strong {
     font-weight: 700;
 }
+
+/* サイドバーのタイトル（最近のお知らせ）の文字サイズ */
+.widget__title {
+    font-size: 1.2rem !important; /* お好みに合わせて調整（デフォルト約1.1rem） */
+    font-weight: 700 !important;
+}
+
+/* サイドバー内の本文テキストの文字サイズ */
+.widget__content li {
+    font-size: 1.05rem !important; /* 本文の文字サイズ（デフォルト約0.9rem） */
+    line-height: 1.6 !important;  /* 行間 */
+}
+
+/* サイドバー内の日付の文字サイズ */
+.widget__content span {
+    font-size: 0.95rem !important; /* 日付の文字サイズ */
+}
+
+/* サイト全体の横幅を拡張 */
+.container,
+.container--outer {
+    max-width: 1200px !important; /* デフォルト（約1024px）から1200pxに拡大 */
+}
