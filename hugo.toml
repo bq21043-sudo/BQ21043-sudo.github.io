@@ -45,4 +45,4 @@ mainSections = ["posts"]
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["recent"]
+    widgets = ["news"]
