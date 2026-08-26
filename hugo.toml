@@ -34,8 +34,8 @@ mainSections = ["posts"]
   [[menu.main]]
     identifier = 'news'
     name = 'News'
-    url = '/publications/'
-    weight = 30
+    url = '/news/'
+    weight = 40
 
 [params]
   customCSS = ["css/custom.css"]
