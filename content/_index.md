@@ -6,8 +6,6 @@ draft: false
 
 ## プロフィール（Profile）
 
-## プロフィール
-
  **中西 凌大** <small>(Ryota Nakanishi)</small>
 
 芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年  
