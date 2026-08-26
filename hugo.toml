@@ -4,7 +4,7 @@ defaultContentLanguage = 'ja'
 locale = 'ja'
 title = ''
 theme = 'mainroad'
-googleAnalytics = 'G-XXXXXXXXXX'
+
 
 # トップページ下部に記事一覧を出さない設定
 mainSections = []
