@@ -1,5 +1,6 @@
 baseURL = 'https://ryota-nakanishi-dev.github.io/'
 relativeURLs = true
+defaultContentLanguage = 'ja'
 locale = 'ja'
 title = ''
 theme = 'mainroad'
@@ -12,8 +13,6 @@ mainSections = ["posts"]
   bio = '芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年'
 
 [menu]
-
-  # 右上メニューに HOME を追加
   [[menu.main]]
     identifier = 'home'
     name = 'Home'
@@ -36,16 +35,14 @@ mainSections = ["posts"]
   customCSS = ["css/custom.css"]
   subtitle = ''
   description = '芝浦工業大学川上研究室（フルードパワーシステム研究室）所属の修士課程2年'
-
   highlightColor = "#002147"
+
+  # 見出しの変更設定
+  [params.messages]
+    recent_title = "最近のお知らせ"
 
   [params.sidebar]
     home = "right"
     list = "right"
     single = "right"
     widgets = ["recent"]
-[languages]
-  [languages.ja]
-    languageName = "日本語"
-    [languages.ja.params.messages]
-      recent_title = "最近のお知らせ"
