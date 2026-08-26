@@ -24,7 +24,7 @@
 /* 本文・箇条書きの文字サイズ調整 */
 .content p, 
 .content li {
-    font-size: 0.95rem; /* 好みに合わせて 0.9rem 〜 1.05rem 等で調整可能 */
+    font-size: 1.15rem; /* 好みに合わせて 0.9rem 〜 1.05rem 等で調整可能 */
     line-height: 1.7;   /* 行間を少し広げて読みやすくします */
 }
 
