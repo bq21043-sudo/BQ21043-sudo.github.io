@@ -6,7 +6,8 @@ title = ''
 theme = 'mainroad'
 googleAnalytics = 'G-XXXXXXXXXX'
 
-mainSections = ["posts"]
+# トップページ下部に記事一覧を出さない設定
+mainSections = []
 
 [author]
   name = 'Ryota Nakanishi'
@@ -20,6 +21,12 @@ mainSections = ["posts"]
     weight = 10
 
   [[menu.main]]
+    identifier = 'news'
+    name = 'News'
+    url = '/news/'
+    weight = 15
+
+  [[menu.main]]
     identifier = 'research'
     name = 'Research'
     url = '/research/'
@@ -30,12 +37,6 @@ mainSections = ["posts"]
     name = 'Publications'
     url = '/publications/'
     weight = 30
-  
-  [[menu.main]]
-    identifier = 'news'
-    name = 'News'
-    url = '/news/'
-    weight = 40
 
 [params]
   customCSS = ["css/custom.css"]
