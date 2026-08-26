@@ -34,5 +34,7 @@ draft: false
 
 * ✉️ **Email**: [bq21043@shibaura-it.ac.jp](mailto:bq21043@shibaura-it.ac.jp)
 * 🐙 **GitHub**: [github.com/ryota-nakanishi-dev](https://github.com/ryota-nakanishi-dev)
+
+---
   </a>
 </div>
