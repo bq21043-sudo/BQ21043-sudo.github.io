@@ -1,0 +1,57 @@
+/* タイトルとサブタイトルを非表示 */
+.header__title, 
+.header__subtitle {
+    display: none !important;
+}
+
+/* ヘッダー・フッター・メニューをネイビーに変更 */
+.header,
+.header__inner,
+.menu,
+.menu__list,
+.footer {
+    background-color: #002147 !important;
+    background: #002147 !important;
+}
+
+/* 見出し（プロフィール、研究内容など）のサイズ調整 */
+.content h2 {
+    font-size: 1.5rem; /* デフォルトより少し控えめにしてすっきりさせます */
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+/* 本文・箇条書きの文字サイズ調整 */
+.content p, 
+.content li {
+    font-size: 1.15rem; /* 好みに合わせて 0.9rem 〜 1.05rem 等で調整可能 */
+    line-height: 1.7;   /* 行間を少し広げて読みやすくします */
+}
+
+/* 太字部分の強調設定 */
+.content strong {
+    font-weight: 700;
+}
+
+/* サイドバーのタイトル（最近のお知らせ）の文字サイズ */
+.widget__title {
+    font-size: 1.2rem !important; /* お好みに合わせて調整（デフォルト約1.1rem） */
+    font-weight: 700 !important;
+}
+
+/* サイドバー内の本文テキストの文字サイズ */
+.widget__content li {
+    font-size: 1.05rem !important; /* 本文の文字サイズ（デフォルト約0.9rem） */
+    line-height: 1.6 !important;  /* 行間 */
+}
+
+/* サイドバー内の日付の文字サイズ */
+.widget__content span {
+    font-size: 0.95rem !important; /* 日付の文字サイズ */
+}
+
+/* サイト全体の横幅を拡張 */
+.container,
+.container--outer {
+    max-width: 1200px !important; /* デフォルト（約1024px）から1200pxに拡大 */
+}
